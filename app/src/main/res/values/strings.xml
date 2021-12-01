@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="Register_book">Registro de un Libro</string>
+    <string name="Name_book">Nombre:</string>
+    <string name="Name_author">Autor:</string>
+    <string name="autor_edit_text">Nombre del autor</string>
+    <string name="pages">Número de páginas</string>
+    <string name="summary">Resumen:</string>
+    <string name="save">Guardar</string>
+    ></resources>
